@@ -25,7 +25,7 @@ KEY_PRICES = {
     'day': 80,   # 80 Rs per day
     'week': 500  # 500 Rs per week
 }
-ADMIN_IDS = [7376682624]
+ADMIN_IDS = [1866816118]
 BOT_TOKEN = "7376682624:AAFuZXujuqAtJaMB8jdZRTCHif8RpwbcH3Y"
 thread_count = 900
 packet_size = 9
